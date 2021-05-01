@@ -9,8 +9,8 @@ you can create your own cluster using [mongoDB Atlas](https://www.mongodb.com/cl
 # Functions available
 
 - list all tasks 
-*allTasks : returns all tasks
+  *allTasks : returns all tasks
 - delete a task
-*deleteTask(_id:ID!) : return the deleted task
+  *deleteTask(_id:ID!) : return the deleted task
 - create a task
-*createTask(taskDesc:String!) : return the created task
+  *createTask(taskDesc:String!) : return the created task
